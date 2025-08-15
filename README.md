@@ -14,6 +14,11 @@
 
 <h1 align="center">GitHub's Stats</h1>
 
+<p align="center">
+  <a href="https://harysdev.github.io/github-profile/" target="_blank" title="GitHub Profile">
+    My GitHub Profile Showcase
+</p>
+
 | <a href="#"><img align="center" src="https://gh-rs.vercel.app/api?username=harysdev&layout=compact&langs_count=8&card_width=320&theme=gruvbox" alt="GitHub Stats" /></a> | <a href="#"><img align="center" src="https://gh-rs.vercel.app/api/top-langs?username=harysdev&theme=gruvbox" /></a> |
 | ------------- | -------------- |
 
